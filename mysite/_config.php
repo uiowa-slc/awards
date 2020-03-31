@@ -16,4 +16,4 @@ if(Director::isLive()) {
 	Director::forceSSL();
 }
 
-LeftAndMain::add_extension('CustomLeftAndMain');
+//LeftAndMain::add_extension('CustomLeftAndMain');
